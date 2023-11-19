@@ -20,22 +20,21 @@ Algunos de los proyectos destacados en los que he trabajado incluyen:
 
 1. **Linseg Smart:**
    - Descripción: Aplicación de Internet de las cosas (IOT) para la gestión de cercos eléctricos.
-   - Tecnologías utilizadas: [Menciona las tecnologías específicas que has utilizado, como Flutter, .NET C#, etc.]
+   - Tecnologías utilizadas: Flutter, .NET C#, AWS
 
 2. **Meraki:**
    - Descripción: Aplicación de ayuda humanitaria.
-   - Tecnologías utilizadas: [Incluye las tecnologías relevantes que has aplicado, por ejemplo, Flutter, AWS, etc.]
+   - Tecnologías utilizadas: Flutter, .NET C#, AWS
 
 3. **Proyectos de Mantenimiento y Actualización:**
    - Descripción: He liderado la mantenimiento y actualización de varios proyectos en Flutter y .NET C#.
-   - Tecnologías utilizadas: [Enumera las tecnologías específicas que has manejado en estos proyectos.]
+   - Tecnologías utilizadas: Flutter, .NET C#, AWS
 
 ## Contacto
 ¡Me encantaría conectarme contigo! Puedes encontrarme en las siguientes plataformas:
 
-- [LinkedIn](URL de tu perfil de LinkedIn)
-- [Twitter](URL de tu perfil de Twitter)
-- [Sitio Web/Portafolio](URL de tu sitio web o portafolio)
+<!--- - [LinkedIn](URL de tu perfil de LinkedIn) -->
+<!--- - [Sitio Web/Portafolio](URL de tu sitio web o portafolio) -->
 
 Si tienes alguna pregunta, sugerencia o simplemente quieres charlar sobre desarrollo, no dudes en ponerte en contacto.
 
