@@ -22,13 +22,13 @@ Algunos de los proyectos destacados en los que he trabajado incluyen:
    - Descripción: Aplicación de Internet de las cosas (IOT) para la gestión de cercos eléctricos.
    - Rol: Desarrollador Mobile Principal.
    - Tecnologías utilizadas: Flutter, .NET C#, AWS
-   - Url Proyecto: https://play.google.com/store/apps/details?id=com.linseg.gestionalarmas.gestion_de_alarmas&hl=en_US
+   - [Url Proyecto]([https://www.meraki-app.com/](https://play.google.com/store/apps/details?id=com.linseg.gestionalarmas.gestion_de_alarmas&hl=en_US))
 
 2. **Meraki:**
    - Descripción: Aplicación de ayuda humanitaria.
    - Rol: Líder de equipos de desarrollo.
    - Tecnologías utilizadas: Flutter, .NET C#, AWS
-   - Url Proyecto: https://www.meraki-app.com/
+   - [Url Proyecto](https://www.meraki-app.com/)
 
 3. **Proyectos de Mantenimiento y Actualización:**
    - Descripción: He liderado la mantenimiento y actualización de varios proyectos en Flutter y .NET C#.
