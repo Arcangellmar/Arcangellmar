@@ -20,14 +20,17 @@ Algunos de los proyectos destacados en los que he trabajado incluyen:
 
 1. **Linseg Smart:**
    - Descripción: Aplicación de Internet de las cosas (IOT) para la gestión de cercos eléctricos.
+   - Rol: Desarrollador Mobile Principal.
    - Tecnologías utilizadas: Flutter, .NET C#, AWS
 
 2. **Meraki:**
    - Descripción: Aplicación de ayuda humanitaria.
+   - Rol: Líder de equipos de desarrollo.
    - Tecnologías utilizadas: Flutter, .NET C#, AWS
 
 3. **Proyectos de Mantenimiento y Actualización:**
    - Descripción: He liderado la mantenimiento y actualización de varios proyectos en Flutter y .NET C#.
+   - Rol: Desarrollador Web y Backend.
    - Tecnologías utilizadas: Flutter, .NET C#, AWS
 
 ## Contacto
