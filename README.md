@@ -12,7 +12,7 @@ Soy un profesional del desarrollo con habilidades tanto técnicas como de lidera
 - **Desarrollo Full Stack:**
   - Tecnologías: .NET C#, Flutter
   - Bases de Datos: MySQL, SQL Server
-  - Plataformas en la Nube: AWS
+  - Plataformas en la Nube: AWS, Azure, Firebase, Google Cloud
   - Automatización de Pruebas: Selenium
 
 ## Proyectos Destacados
