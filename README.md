@@ -1,6 +1,6 @@
 # Rolando Jesus Zafra Moran (Arcangellmar) - Desarrollador Full Stack y Líder Técnico
 
-¡Hola! Soy Rolando Jesus Zafra Moran, también conocido como Arcangellmar en el mundo del desarrollo, bachiller de Ingenieria de Software de la UNMSM Peru. Soy un apasionado desarrollador Full Stack y líder técnico con experiencia en diversas tecnologías. A continuación, te proporciono un vistazo rápido de quién soy y qué hago.
+¡Hola! Soy Rolando Jesus Zafra Moran, bachiller de Ingenieria de Software de la UNMSM Peru. Soy un apasionado desarrollador Full Stack y líder técnico con experiencia en diversas tecnologías como .NET C#, Flutter, AWS, MySQL
 
 ## Acerca de mí
 - **Nombre:** Rolando Jesus Zafra Moran
