@@ -21,7 +21,7 @@ const Projects = () => {
       technologies: ["Flutter", "C#", "SQL Server", "AWS (RDS, S3, KMS)"],
       architecture: "Arquitectura monolítica/microservicios apoyada sobre API REST en C# y aprovisionamiento de recursos e infraestructura en AWS.",
       type: "Aplicación Web y Mobile",
-      image: "/meraki-mockup.png",
+      image: "https://arcangellmar.github.io/Arcangellmar/meraki-mockup.png",
       link: "https://meraki-app.com/",
       impact: "Se proporcionó una red solidaria estable, sumamente accesible en múltiples portales y dispositivos."
     },
@@ -88,7 +88,7 @@ const Projects = () => {
     <section id="projects" className="py-24 relative">
       <div className="container mx-auto px-6 max-w-6xl">
         <div className="text-center mb-16">
-          <motion.h2 
+          <motion.h2
             initial={{ opacity: 0, y: 20 }}
             whileInView={{ opacity: 1, y: 0 }}
             viewport={{ once: true }}
@@ -115,9 +115,9 @@ const Projects = () => {
             >
               <div className="h-64 overflow-hidden relative">
                 <div className="absolute inset-0 bg-dark-900/20 group-hover:bg-transparent transition-colors z-10" />
-                <img 
-                  src={project.image} 
-                  alt={project.title} 
+                <img
+                  src={project.image}
+                  alt={project.title}
                   className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
                 />
               </div>
@@ -146,22 +146,22 @@ const Projects = () => {
       <AnimatePresence>
         {selectedProject && (
           <div className="fixed inset-0 z-50 flex items-center justify-center px-4 py-8">
-            <motion.div 
+            <motion.div
               initial={{ opacity: 0 }}
               animate={{ opacity: 1 }}
               exit={{ opacity: 0 }}
               onClick={() => setSelectedProject(null)}
               className="absolute inset-0 bg-dark-900/80 backdrop-blur-sm"
             />
-            
-            <motion.div 
+
+            <motion.div
               initial={{ opacity: 0, scale: 0.95, y: 20 }}
               animate={{ opacity: 1, scale: 1, y: 0 }}
               exit={{ opacity: 0, scale: 0.95, y: 20 }}
               className="relative w-full max-w-4xl max-h-full overflow-y-auto bg-dark-800 border border-white/10 rounded-2xl shadow-2xl z-10"
             >
               {/* Close Button */}
-              <button 
+              <button
                 onClick={() => setSelectedProject(null)}
                 className="absolute top-4 right-4 p-2 rounded-full bg-black/20 hover:bg-black/40 text-white transition-colors z-20"
               >
@@ -169,9 +169,9 @@ const Projects = () => {
               </button>
 
               <div className="h-64 md:h-80 relative">
-                <img 
-                  src={selectedProject.image} 
-                  alt={selectedProject.title} 
+                <img
+                  src={selectedProject.image}
+                  alt={selectedProject.title}
                   className="w-full h-full object-cover"
                 />
                 <div className="absolute inset-0 bg-gradient-to-t from-dark-800 to-transparent" />
@@ -186,9 +186,9 @@ const Projects = () => {
                       <span>{selectedProject.type}</span>
                     </div>
                   </div>
-                  
+
                   {selectedProject.link !== '#' && (
-                    <a 
+                    <a
                       href={selectedProject.link}
                       target="_blank"
                       rel="noopener noreferrer"
@@ -205,7 +205,7 @@ const Projects = () => {
                       <h4 className="text-xl font-semibold text-white mb-3">Descripción General</h4>
                       <p className="text-gray-300 leading-relaxed">{selectedProject.description}</p>
                     </section>
-                    
+
                     <section>
                       <h4 className="text-xl font-semibold text-white mb-3">El Problema</h4>
                       <p className="text-gray-300 leading-relaxed">{selectedProject.problem}</p>
@@ -224,7 +224,7 @@ const Projects = () => {
                   <div className="space-y-8 bg-dark-900/50 p-6 rounded-xl border border-white/5 h-fit">
                     <section>
                       <h4 className="flex items-center gap-2 text-lg font-semibold text-white mb-4">
-                        <Server size={20} className="text-primary-400"/> Tecnologías
+                        <Server size={20} className="text-primary-400" /> Tecnologías
                       </h4>
                       <div className="flex flex-wrap gap-2">
                         {selectedProject.technologies.map(tech => (
