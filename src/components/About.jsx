@@ -43,13 +43,13 @@ const About = () => {
             </h2>
             <div className="space-y-4 text-gray-400 text-lg leading-relaxed">
               <p>
-                Soy un desarrollador de software senior con una profunda pasión por la creación de soluciones tecnológicas que resuelven problemas reales. Mi principal fortaleza radica en el ecosistema <strong>.NET</strong>, donde he diseñado, estructurado e implementado múltiples sistemas empresariales de misión crítica.
+                Soy <strong className="text-white">Bachiller en Ingeniería de Software por la UNMSM</strong> y desarrollador de software senior con una profunda pasión por la creación de soluciones tecnológicas que resuelven problemas reales. Mi principal fortaleza radica en el ecosistema <strong className="text-white">.NET</strong>, donde he diseñado, estructurado e implementado múltiples sistemas empresariales de misión crítica.
               </p>
               <p>
-                A lo largo de mi carrera, he liderado y coordinado equipos técnicos para construir desde cero aplicaciones ambiciosas en distintos formatos: plataformas web y aplicaciones móviles (Android e iOS). 
+                Mi sólida base académica como ingeniero me permite tener una visión analítica y formal sobre la arquitectura de proyectos. A lo largo de mi carrera, he liderado equipos técnicos para construir desde cero aplicaciones ambiciosas en diversos formatos: plataformas web integrales y móviles (Android e iOS). 
               </p>
               <p>
-                Mi enfoque no se limita a escribir código, sino a entender el producto, definir la mejor arquitectura posible e involucrarme en todo el ciclo de vida del desarrollo asegurando entregas de altísimo valor.
+                Mi enfoque va mucho más allá de escribir código: busco entender el producto a fondo, definir la mejor arquitectura posible e involucrarme rigurosamente en todo el ciclo de vida del desarrollo asegurando siempre entregas de altísimo valor.
               </p>
             </div>
           </motion.div>
