@@ -18,18 +18,18 @@ const Hero = () => {
               className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-dark-800 border border-white/10 text-sm text-gray-300"
             >
               <Terminal size={16} className="text-primary-400" />
-              <span>Senior Software Developer</span>
+              <span>Desarrollo de software a medida en Peru</span>
             </motion.div>
 
             <motion.h1 
               initial={{ opacity: 0, y: 20 }}
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 0.5, delay: 0.1 }}
-              className="text-5xl md:text-7xl font-bold leading-tight"
+              className="text-4xl sm:text-5xl md:text-7xl font-bold leading-tight"
             >
-              Transformando <br />
-              <span className="text-gradient">ideas complejas</span> en <br />
-              soluciones reales.
+              Sistemas web, <br />
+              <span className="text-gradient">apps moviles</span> y <br />
+              automatizaciones.
             </motion.h1>
 
             <motion.p 
@@ -38,7 +38,7 @@ const Hero = () => {
               transition={{ duration: 0.5, delay: 0.2 }}
               className="text-lg md:text-xl text-gray-400 max-w-2xl leading-relaxed"
             >
-              Especializado en .NET, Arquitectura de Soluciones y creación de productos digitales. Con experiencia probada construyendo sistemas empresariales escalables desde cero, enfocados en calidad y rendimiento.
+              Ayudo a empresas y emprendedores a crear software a medida: plataformas web, APIs .NET, aplicaciones Flutter, integraciones y mejoras de sistemas existentes con arquitectura limpia, calidad y rendimiento.
             </motion.p>
 
             <motion.div 
@@ -51,14 +51,14 @@ const Hero = () => {
                 href="#projects" 
                 className="group flex items-center gap-2 px-8 py-4 rounded-full bg-white text-dark-900 font-semibold hover:bg-gray-100 transition-all"
               >
-                Ver proyectos
+                Ver casos reales
                 <ArrowRight size={20} className="group-hover:translate-x-1 transition-transform" />
               </a>
               <a 
                 href="#contact" 
                 className="px-8 py-4 rounded-full glass-effect text-white font-medium hover:bg-white/5 transition-all"
               >
-                Contacto
+                Cotizar proyecto
               </a>
             </motion.div>
           </div>

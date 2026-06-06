@@ -15,7 +15,8 @@ const TechStack = () => {
     { name: 'React', category: 'Frontend' },
     { name: 'JavaScript', category: 'Frontend' },
     { name: 'Automatizacion', category: 'DevOps' },
-    { name: 'CI CD', category: 'DevOps' },
+    { name: 'IA aplicada', category: 'DevOps' },
+    { name: 'CI/CD', category: 'DevOps' },
   ];
 
   return (
@@ -40,7 +41,7 @@ const TechStack = () => {
             transition={{ delay: 0.1 }}
             className="text-gray-400 text-lg max-w-2xl mx-auto"
           >
-            Herramientas y tecnologías que utilizo para construir arquitecturas robustas y aplicaciones multiplataforma.
+            Herramientas que utilizo para construir software a medida, sistemas web escalables, apps móviles e integraciones empresariales.
           </motion.p>
         </div>
 

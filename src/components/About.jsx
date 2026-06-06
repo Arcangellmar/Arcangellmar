@@ -6,22 +6,22 @@ const About = () => {
     {
       icon: <Server className="text-primary-400" size={32} />,
       title: "Arquitectura Backend",
-      desc: "Diseño robusto con .NET, C# y SQL Server preparado para alta concurrencia."
+      desc: "Diseño robusto con .NET, C# y SQL Server preparado para sistemas empresariales."
     },
     {
       icon: <Code2 className="text-primary-400" size={32} />,
       title: "Desarrollo Full-Stack",
-      desc: "Creación de productos completos, desde la base de datos hasta integraciones Frontend."
+      desc: "Creación de productos completos, desde la base de datos hasta la experiencia web."
     },
     {
       icon: <Smartphone className="text-primary-400" size={32} />,
       title: "Mobile & APIs",
-      desc: "Experiencia en Flutter, Android e iOS sustentada por potentes Web APIs."
+      desc: "Apps Flutter para Android e iOS sustentadas por APIs seguras y escalables."
     },
     {
       icon: <LayoutTemplate className="text-primary-400" size={32} />,
       title: "Optimización de Sistemas",
-      desc: "Mejora continua y refactorización de plataformas empresariales existentes."
+      desc: "Modernización, mantenimiento y refactorización de plataformas en producción."
     }
   ];
 
@@ -49,7 +49,7 @@ const About = () => {
                 Mi sólida base académica como ingeniero me permite tener una visión analítica y formal sobre la arquitectura de proyectos. A lo largo de mi carrera, he liderado equipos técnicos para construir desde cero aplicaciones ambiciosas en diversos formatos: plataformas web integrales y móviles (Android e iOS). 
               </p>
               <p>
-                Mi enfoque va mucho más allá de escribir código: busco entender el producto a fondo, definir la mejor arquitectura posible e involucrarme rigurosamente en todo el ciclo de vida del desarrollo asegurando siempre entregas de altísimo valor.
+                Mi enfoque va mucho más allá de escribir código: entiendo el proceso del negocio, defino una arquitectura sostenible y acompaño el ciclo de vida del producto para que la solución sea útil, mantenible y escalable.
               </p>
             </div>
           </motion.div>

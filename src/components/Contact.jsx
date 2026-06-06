@@ -28,11 +28,11 @@ const Contact = () => {
           >
             <div>
               <h2 className="text-4xl font-bold mb-4 text-white">
-                ¿Construimos algo <br />
-                <span className="text-primary-400">increíble juntos?</span>
+                ¿Necesitas un sistema, <br />
+                <span className="text-primary-400">app o automatización?</span>
               </h2>
               <p className="text-gray-400 text-lg">
-                Si estás buscando un desarrollador capaz de diseñar y desarrollar sistemas escalables, no dudes en escribirme.
+                Escríbeme por WhatsApp y cuéntame qué proceso quieres mejorar, qué app quieres lanzar o qué sistema necesitas modernizar.
               </p>
             </div>
 
@@ -82,7 +82,7 @@ const Contact = () => {
                   rows="6"
                   value={message}
                   onChange={(e) => setMessage(e.target.value)}
-                  placeholder="¡Hola! Me gustaría conectar contigo para hablar sobre un proyecto..."
+                  placeholder="Hola Rolando, necesito desarrollar un sistema web/app para..."
                   className="w-full px-4 py-3 bg-dark-900 border border-white/10 rounded-lg text-white placeholder-gray-600 focus:outline-none focus:border-primary-500 focus:ring-1 focus:ring-primary-500 transition-all resize-none"
                 ></textarea>
               </div>

@@ -6,7 +6,7 @@ const Footer = () => {
       <div className="container mx-auto px-6 max-w-6xl">
         <div className="flex flex-col md:flex-row justify-between items-center gap-4">
           <div className="text-gray-500 text-sm">
-            © {new Date().getFullYear()} Desarrollador Software. Todos los derechos reservados.
+            © {new Date().getFullYear()} Arcangellmar. Desarrollo de software a medida, sistemas web y apps móviles.
           </div>
           
           <div className="flex items-center gap-4">

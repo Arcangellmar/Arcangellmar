@@ -97,7 +97,7 @@ const Projects = () => {
             Proyectos <span className="text-primary-400">Destacados</span>
           </motion.h2>
           <p className="text-gray-400 text-lg max-w-2xl mx-auto">
-            Una selección de productos y sistemas informáticos que he desarrollado.
+            Casos reales de desarrollo de sistemas web, apps móviles, APIs, IoT y automatización para negocios.
           </p>
         </div>
 

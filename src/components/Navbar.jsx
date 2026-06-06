@@ -16,6 +16,7 @@ const Navbar = () => {
 
   const navLinks = [
     { name: 'Sobre Mí', href: '#about' },
+    { name: 'Servicios', href: '#services' },
     { name: 'Tecnologías', href: '#tech' },
     { name: 'Proyectos', href: '#projects' },
     { name: 'Experiencia', href: '#experience' },
@@ -50,7 +51,7 @@ const Navbar = () => {
             href="#contact" 
             className="px-5 py-2 rounded-full bg-primary-600 hover:bg-primary-500 text-white text-sm font-medium transition-colors"
           >
-            Hablemos
+            Cotizar
           </a>
         </nav>
 
